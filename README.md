@@ -13,6 +13,7 @@ Enunciado de la tarea
 ~~~
 Evidencias de desarrollo
 ~~~
+<h2>1. Crear una carpeta de trabajo con el nombre Aprendiz-Geek para el curso usando el comando mkdir</h2>
 
 ![1. Crear una carpeta de trabajo con el nombre Aprendiz-Geek para el curso usando el comando mkdir](https://res.cloudinary.com/dt3hbowon/image/upload/v1649880107/GEEK%20ACADEMY/1._comando_mkdir_fmbnl8.png)<br>
 
